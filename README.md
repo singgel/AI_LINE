@@ -12,4 +12,4 @@
 
 * 《统计学习方法》
 
-* 《机器学习》
+* 《机器学习》:https://download.csdn.net/download/singgel/10775511
