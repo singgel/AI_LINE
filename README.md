@@ -15,3 +15,5 @@
 * 《机器学习》:https://download.csdn.net/download/singgel/10775511
 
 * 《百面机器学习》:https://download.csdn.net/download/singgel/10800711
+
+* 《论文：19th Pacific-Rim Conference on Multimedia Hefei, China, September 21–22, 2018 Proceedings, Part II》：https://download.csdn.net/download/singgel/10809794
