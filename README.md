@@ -1,5 +1,7 @@
 # AI_LINE
 
+* 《动手学深度学习》：https://zh.d2l.ai/chapter_preface/index.html
+
 * 《sql必知必会》
 
 * 《算法图解》
